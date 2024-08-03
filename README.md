@@ -23,8 +23,16 @@ This project was developed during my internship at Saib Bank. It is a comprehens
 - **HTML/CSS/Bootstrap**
 - **ADO.NET**
   
-## Project Vidio
-Registration - Google Chrome 2024-08-03 13-42-09 (online-video-cutter.com).mp4
+## Screenshots
+![Alt text](https://github.com/HassanAbdelhamed22/User-Management-Systems-using-ASP.NET/blob/master/Registration.png)
+![Alt text](https://github.com/HassanAbdelhamed22/User-Management-Systems-using-ASP.NET/blob/master/Login.png)
+![Alt text](https://github.com/HassanAbdelhamed22/User-Management-Systems-using-ASP.NET/blob/master/Admin%20Page.png)
+![Alt text](https://github.com/HassanAbdelhamed22/User-Management-Systems-using-ASP.NET/blob/master/Edit.png)
+![Alt text](https://github.com/HassanAbdelhamed22/User-Management-Systems-using-ASP.NET/blob/master/Update%20Profile.png)
+![Alt text](https://github.com/HassanAbdelhamed22/User-Management-Systems-using-ASP.NET/blob/master/User%20Page.png)
+
+
+
 ## LinkedIn Post
 
 https://www.linkedin.com/posts/hassanabdelhamedh22_webdevelopment-internship-aspnet-activity-7225470434341736449-3SQ_?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/hassanabdelhamedh22_webdevelopment-internship-aspnet-activity-7225470434341736449-3SQ_?utm_source=share&utm_medium=member_desktop
